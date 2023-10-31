@@ -1,0 +1,20 @@
+.a {
+    float:left;
+    height: 550px;
+    width: 675px;
+    border: solid 15px grey;
+
+}
+.a:hover {
+    zoom: 150%;
+
+}
+.b{
+    float: right;
+    height: 550px;
+    width: 675px;
+    border: solid 15px grey;
+}
+.b:hover {
+    zoom: 150%;
+}
