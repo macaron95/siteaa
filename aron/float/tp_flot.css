@@ -1,0 +1,25 @@
+div.block1 {
+		background-color:skyblue ;
+		height: 200px;
+		width: 200px;
+		float: left;
+		margin:10px ;
+}
+
+div.block2 {
+	background-color:skyblue ;
+		height: 200px;
+		width: 200px;
+		float: left;
+		margin:10px ;
+		margin-left: 20px;
+}
+
+div.block3 {
+	background-color:skyblue ;
+		height: 200px;
+		width: 200px;
+		float: left;
+		margin-left:10px ;
+		clear: both;
+}
